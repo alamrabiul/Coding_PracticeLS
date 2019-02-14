@@ -1,0 +1,7 @@
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\obj\Debug\InterfaceExampleTwo.csprojAssemblyReference.cache
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\obj\Debug\InterfaceExampleTwo.csproj.CoreCompileInputs.cache
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\bin\Debug\InterfaceExampleTwo.exe.config
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\bin\Debug\InterfaceExampleTwo.exe
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\bin\Debug\InterfaceExampleTwo.pdb
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\obj\Debug\InterfaceExampleTwo.exe
+G:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_12_CODES\InterfaceExampleTwo\InterfaceExampleTwo\obj\Debug\InterfaceExampleTwo.pdb
