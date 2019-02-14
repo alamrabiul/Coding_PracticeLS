@@ -1,0 +1,6 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\bin\Debug\OrderOfExecutionExample.exe.config
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\bin\Debug\OrderOfExecutionExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\bin\Debug\OrderOfExecutionExample.pdb
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\obj\Debug\OrderOfExecutionExample.csproj.CoreCompileInputs.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\obj\Debug\OrderOfExecutionExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\OrderOfExecutionExample\OrderOfExecutionExample\obj\Debug\OrderOfExecutionExample.pdb

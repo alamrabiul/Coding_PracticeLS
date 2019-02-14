@@ -1,0 +1,6 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb

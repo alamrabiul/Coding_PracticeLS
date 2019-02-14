@@ -1,0 +1,7 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.exe.config
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\bin\Debug\EncapsulationExample.pdb
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.csprojAssemblyReference.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.CoreCompileInputs.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_10_CODES\EncapsulationExample\EncapsulationExample\obj\Debug\EncapsulationExample.pdb
