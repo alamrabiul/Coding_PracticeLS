@@ -1,0 +1,6 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\bin\Debug\UseArrayasMethodParameters.exe.config
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\bin\Debug\UseArrayasMethodParameters.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\bin\Debug\UseArrayasMethodParameters.pdb
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\obj\Debug\UseArrayasMethodParameters.csproj.CoreCompileInputs.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\obj\Debug\UseArrayasMethodParameters.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\UseArrayasMethodParameters\UseArrayasMethodParameters\obj\Debug\UseArrayasMethodParameters.pdb

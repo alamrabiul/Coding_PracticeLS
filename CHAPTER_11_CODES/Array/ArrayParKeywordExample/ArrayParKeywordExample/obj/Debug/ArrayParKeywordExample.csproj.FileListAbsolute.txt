@@ -1,0 +1,2 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\obj\Debug\ArrayParKeywordExample.csprojAssemblyReference.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\obj\Debug\ArrayParKeywordExample.csproj.CoreCompileInputs.cache

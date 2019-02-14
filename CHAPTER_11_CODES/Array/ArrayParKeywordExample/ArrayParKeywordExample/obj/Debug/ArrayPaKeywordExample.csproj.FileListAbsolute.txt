@@ -1,0 +1,6 @@
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\obj\Debug\ArrayPaKeywordExample.csproj.CoreCompileInputs.cache
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\bin\Debug\ArrayParKeywordExample.exe.config
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\bin\Debug\ArrayParKeywordExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\bin\Debug\ArrayParKeywordExample.pdb
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\obj\Debug\ArrayParKeywordExample.exe
+D:\LEADS TRAINING\PRACTICE_LEADS\CHAPTER_11_CODES\Array\ArrayParKeywordExample\ArrayParKeywordExample\obj\Debug\ArrayParKeywordExample.pdb
